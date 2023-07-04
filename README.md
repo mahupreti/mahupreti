@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahupreti.
+- 👋 Hi, I’m Mahesh Upreti a.k.a. Yogesh.
 - 👀 I’m interested in Cloud and DevOps.
 - 🌱 I’m currently learning AWS Services.
 - 💞️ I’m looking to collaborate on AWS and Devops fields.
