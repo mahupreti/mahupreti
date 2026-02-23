@@ -24,7 +24,7 @@
 
 
 ---
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahupreti&show_icons=true&theme=radical)
+![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahupreti&show_icons=true&theme=radical)
 
 ---
 
