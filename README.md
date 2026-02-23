@@ -1,10 +1,10 @@
 <h2 align=center><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Mahesh Upreti a.k.a. Yogesh :) <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2><img align='right' width="400">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working as a CloudOps Engineer at Viveka Services.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working as a CloudOps Engineer at Maitri Services.
 - 💬 Ask me about Cloud 
 - 📫 How to reach me: [![](https://img.shields.io/badge/instagram-blue)](https://www.instagram.com/yogeshupreti_/)
-- :computer: Current Interest: Infrastructure and Cloud Security
+- :computer: Current Interest: Cloud Operations and Security
 
 &nbsp;
 &nbsp;
